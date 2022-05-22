@@ -3,6 +3,14 @@ E-Commerce-Product-Range-Analysis:
 Practicum program final project 
 E-Commerce: Product Range Analysis
 
+Submitting the Project:
+
+****Components:
+1. A notebook containing my code (.ipynb)
+2. A presentation (.pdf)
+3. A link to my dashboard on Tableau Public (dashboard.txt)
+
+
 **Task:**
 
 ****Analyze the store's product range.
