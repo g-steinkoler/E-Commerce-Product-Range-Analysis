@@ -1,4 +1,5 @@
-# E-Commerce-Product-Range-Analysis
+E-Commerce-Product-Range-Analysis:
+
 Practicum program final project 
 E-Commerce: Product Range Analysis
 
@@ -9,6 +10,16 @@ E-Commerce: Product Range Analysis
 - Carry out exploratory data analysis
 - Analyze the product range
 - Formulate and test statistical hypotheses
+
+**** Who is my internal customer?
+
+project managers who are responsible for the relevance of the product range.
+
+**** what is the main goal?
+
+The main goal is to get a better understanding of the business, product-wise. 
+Striving to determine which products are included in the main and additional assortment in order to competently offer additional or interchangeable products to customers and thus improve sales.
+
 
 # Table of Contents:
 
@@ -83,12 +94,4 @@ The file `ecommerce_dataset_us.csv` contains the following columns:
 `UnitPrice` — price per item
 
 `CustomerID`
-
-
-   * Who is our internal customer?
-project managers who are responsible for the relevance of the product range
-
-   * Why do they need that?
-they want to determine which products are included in the main and additional assortment in order to competently offer additional products to buyers and optimize purchases (there is no point in purchasing a lot of additional products when the main product is not available)
-Classifying or categorization can be one of the options for that
 
